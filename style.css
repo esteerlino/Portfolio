@@ -107,7 +107,6 @@ body{
     }
 }
 
-/* Para tablets */
 @media (max-width: 1200px) {
     .apresentacao{
         flex-direction: column-reverse;
